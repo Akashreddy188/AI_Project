@@ -3,8 +3,9 @@
 An AI-powered Streamlit application that provides language translation, text-to-speech functionality, optical character recognition (OCR), and voice input transcription, making it a versatile and accessible tool for multilingual communication.
 
 ## Demo Link
-[View the AI Translator Application](#)  
-*(Replace with the actual link to your app deployment if available.)*
+
+https://github.com/user-attachments/assets/58a29397-e72e-4088-8d19-718939750d70
+
 
 ## Business Understanding
 The AI Translator with OCR & Voice Input aims to break language barriers by combining text-based, image-based, and voice-based translation into a single platform.
